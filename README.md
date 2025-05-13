@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @uthaiyaventhan
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning HTML, CSS, JS, Moodle, robotics and many more to be conversant on website creation as well as hosting.
+- 🌱 I’m currently learning {HTML, CSS}, {JS, Python}, {C#, C++, Unity}, Moodle, robotics and many more to be conversant on website and game development as well as hosting.
 - 💞️ I’m looking to collaborate on anyone who wishes to freely impart/share knowledge with me.
 - 📫 How to reach me? Write me at uthaiyaventhan@yahoo.co.uk
-- 😄 Pronouns: Definitely a He/Him
+- 😄 Pronouns: Definitely a He/Him/His
 - ⚡ Fun fact: I love history apart from Science & Technology
 
 <!---
